@@ -100,5 +100,3 @@ To run this workshop, you'll need:
 3. **USA leads in hiring growth, while Ecuador has seen a decline.** This suggests a regional hiring preference or economic factors affecting hiring in certain countries.
 4. **Interns, Juniors, and Trainees make up most of the hires.** This suggests a strategy focused on training and internal growth rather than hiring senior professionals.
 5. **Only 13% of applicants are hired, showing a competitive selection process.** The high rejection rate indicates either a large applicant pool or a strict evaluation process.
-
-By following this workshop, you will understand the ETL process and how to visualize data effectively using Power BI.
